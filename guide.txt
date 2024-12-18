@@ -1,0 +1,24 @@
+ezt írd át nekem mardown languagebe 
+// FELADATLAP: Routing Gyakorlása TypeScript-ben React-tel
+
+// 1. Lépés: Hozd létre a projektet (ha még nincs meg):
+// $ npx create-react-app routing-practice --template typescript
+// $ cd routing-practice
+// $ npm install react-router-dom
+
+// 2. Hozz létre a következő struktúrát:
+// - App.tsx
+// - pages/
+//     - Home.tsx
+//     - About.tsx
+//     - Contact.tsx
+
+// 3. Feladat: Implementáld a következő útvonalakat a React Router segítségével:
+// - / (Főoldal - Home)
+// - /about (Rólunk oldal - About)
+// - /contact (Kapcsolat oldal - Contact)
+
+// 4. Minden oldal jelenítse meg saját címét és egy navigációs menüt a következő linkekkel:
+// - Home
+// - About
+// - Contact
